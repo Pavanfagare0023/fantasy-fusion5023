@@ -1,0 +1,43 @@
+Top 20 Prompts
+
+
+"Write a detailed explanation of each step in my Python code for CKD (Chronic Kidney Disease) prediction using Random Forest and Streamlit."
+
+"Help me prepare a Data Analyst interview with questions and deep explanations on Tableau, SQL, and cloud platforms like Databricks or Azure."
+
+"Make a professional, minimal, and techy LinkedIn banner, post image, and carousel template that includes my photo and reflects my data analytics skills."
+
+"Create a detailed LinkedIn optimization checklist PDF with steps to improve my profile."
+
+"Write a one-page project portfolio PDF for my dialysis prediction model with a clean design, overview, tech stack, and key insights."
+
+"Generate a creative and professional freelancer bio for Fiverr and Upwork as a data analyst."
+
+"Design a Notion workspace to manage my freelance data projects, including project tracker, client info, and invoice templates."
+
+"Explain Generative AI in detail, covering all modules with deep questions and answers for each."
+
+"Rewrite my resume summary in simple vocabulary, keeping it professional and impactful."
+
+"Convert complex sentences into simple English—for example, military-related sentences or social posts."
+
+"Help me make a detailed Word and PowerPoint project report on my CKD prediction model using Python and Streamlit."
+
+"Create a resume for a Senior Data Analyst - Tableau role with keywords and achievements based on my experience."
+
+"Give me sample application letters for academic posts like Principal, including my experience and NAAC assessor role."
+
+"Write strong, clear project descriptions for scripts used in CKD prediction and dialysis model with Random Forest and preprocessing steps."
+
+"Help me create content for my first LinkedIn post to launch my data analyst brand."
+
+"Build a healthcare mini-project in Python using Streamlit with instructions to run in Spyder and Streamlit CLI."
+
+"Help me write a clean, minimal, and professional summary for my LinkedIn based on my data analytics skills."
+
+"Write a carousel content idea plan for LinkedIn posts on data analytics, AI, and freelancing."
+
+"Help me manage multiple income streams using AI tools and data skills to reach ₹3L monthly income."
+
+"Give me a detailed explanation of a real-time data pipeline or dashboard setup using Tableau, SQL, and Azure."
+
